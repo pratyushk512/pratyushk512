@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a passionate developer and problem solver with
 ## 🌟 Featured Projects
 
 Here are some of my favorite projects:
--🚀 **[AI-Powered Career Advisor](https://github.com/pratyushk512/ai-career-advisor):**  
+- 🚀 **[AI-Powered Career Advisor](https://github.com/pratyushk512/ai-career-advisor):**  
   Get jobs matched by your profile,summary, resume analysis and more
 - 🚀 **[AI-Powered Interview System](https://github.com/pratyushk512/ai-powered-interview-system):**  
   Real-time video interviews with speech-to-text, evaluation, and analytics.  
