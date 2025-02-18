@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer and problem solver with
 </p>
 
 - 🎓 **Tech Enthusiast:** A developer with hands-on experience in **full-stack development**, specializing in **MERN**, **Next.js**, and **TypeScript**.  
-- 💡 **Problem Solver:** Solved **200+ DSA problems** on LeetCode, using **Java** as my go-to language for tackling challenges.  
+- 💡 **Problem Solver:** Solved **300+ DSA problems** on LeetCode, using **Java** as my go-to language for tackling challenges.  
 
 ---
 
